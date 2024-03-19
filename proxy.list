@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,dzr.ovh
 #
 # |DOMAIN-KEYWORD|
 DOMAIN-KEYWORD,pornhub
