@@ -2,10 +2,11 @@
 # AUTHOR: Pavel 
 # REPO: https://github.com/PavelAnok/Shadowrocket
 # UPDATED: 2024-04-22 10:46:14
-#
-# |DOMAIN-SUFFIX|
-DOMAIN-SUFFIX,ifconfig.me
 
-#
+# |DOMAIN-SUFFIX|
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,keenetic.link
+
 # |DOMAIN-KEYWORD|
-# DOMAIN-KEYWORD,adguard
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,keenetic
