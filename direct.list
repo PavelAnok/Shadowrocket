@@ -1,1 +1,11 @@
-f
+# NAME: Proxy list for Shadowrocket
+# AUTHOR: Pavel 
+# REPO: https://github.com/PavelAnok/Shadowrocket
+# UPDATED: 2024-04-22 10:46:14
+#
+# |DOMAIN-SUFFIX|
+DOMAIN-SUFFIX,ifconfig.me
+
+#
+# |DOMAIN-KEYWORD|
+# DOMAIN-KEYWORD,adguard
