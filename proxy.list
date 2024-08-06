@@ -199,8 +199,6 @@ DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gordonua.com
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,grafana.com
@@ -599,8 +597,6 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yaoilib.me
 DOMAIN-SUFFIX,yle.fi
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zannn.top
@@ -614,7 +610,6 @@ DOMAIN-SUFFIX,zf.com
 DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zohomail.com
 DOMAIN-SUFFIX,zona.media
-
 #
 # |DOMAIN-KEYWORD|
 DOMAIN-KEYWORD,pornhub
