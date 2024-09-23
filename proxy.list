@@ -1,12 +1,12 @@
 # NAME: Proxy list for Shadowrocket
 # AUTHOR: Pavel 
 # REPO: https://github.com/PavelAnok/Shadowrocket
-# UPDATED: 2024-08-06 10:46:14
+# UPDATED: 2024-09-23 10:46:14
 #
 # |DOMAIN-SUFFIX|
-DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,2ip.ru
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdninstagram.com
