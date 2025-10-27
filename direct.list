@@ -6,7 +6,9 @@
 # |DOMAIN-SUFFIX|
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,keenetic.link
+DOMAIN-SUFFIX,netcraze.link
 
 # |DOMAIN-KEYWORD|
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,keenetic
+DOMAIN-KEYWORD,netcraze
